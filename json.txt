@@ -1,0 +1,2 @@
+{"update_id":60957544,
+"message":{"message_id":811,"from":{"id":144914652,"first_name":"Sergey","last_name":"Karsten","username":"woppilif"},"chat":{"id":144914652,"first_name":"Sergey","last_name":"Karsten","username":"woppilif","type":"private"},"date":1490882220,"text":"/start","entities":[{"type":"bot_command","offset":0,"length":6}]}}
